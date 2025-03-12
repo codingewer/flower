@@ -22,9 +22,9 @@ function App() {
   <span>K</span>
   <span>İ</span>
   <br/>
-  <span>Doğdun</span>
+  <span>DOĞDUN</span>
   <br/>
-  <span>Umiko</span>
+  <span>UMİKO</span>
 
 </div>
 
