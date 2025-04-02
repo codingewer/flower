@@ -22,14 +22,14 @@ function App() {
   <span>K</span>
   <span>İ</span>
   <br/>
-  <span>DOĞDUN</span>
+  <span>DOĞDUNUZ</span>
   <br/>
-  <span>UMİKO</span>
+  <span>HANIMEFENDİ</span>
 
 </div>
 
 
-<p className='typewiretter' >Mükemmel ötesi bir arkadaşsın💜</p>
+<p className='typewiretter' >Nice Güzel Yaşlara💜</p>
 
 
     </div>
